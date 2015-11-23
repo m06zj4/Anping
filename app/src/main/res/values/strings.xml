@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Anping</string>
+    <!--<string name="app_name">Dijkstra</string>-->
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ksu">Kun Shan University</string>
+    <string name="i4">College of Information Technology</string>
+    <string name="example">Example</string>
+    <string name="change_map">Change map to</string>
+
+    <string name="change_fail">Change map fail. Please check your device network !</string>
+</resources>
